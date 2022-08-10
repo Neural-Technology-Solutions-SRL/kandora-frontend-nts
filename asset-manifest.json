@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/kandora-frontend-nts/static/css/main.09e387b1.css",
-    "main.js": "/kandora-frontend-nts/static/js/main.d24b095a.js",
+    "main.js": "/kandora-frontend-nts/static/js/main.fe8b91ad.js",
     "index.html": "/kandora-frontend-nts/index.html",
     "main.09e387b1.css.map": "/kandora-frontend-nts/static/css/main.09e387b1.css.map",
-    "main.d24b095a.js.map": "/kandora-frontend-nts/static/js/main.d24b095a.js.map"
+    "main.fe8b91ad.js.map": "/kandora-frontend-nts/static/js/main.fe8b91ad.js.map"
   },
   "entrypoints": [
     "static/css/main.09e387b1.css",
-    "static/js/main.d24b095a.js"
+    "static/js/main.fe8b91ad.js"
   ]
 }
